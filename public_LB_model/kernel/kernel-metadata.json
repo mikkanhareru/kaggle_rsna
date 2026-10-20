@@ -1,0 +1,20 @@
+{
+  "id": "pareru806/rsna-knee-dread-d96-ssl",
+  "title": "RSNA Knee Dread d96 ssl",
+  "code_file": "rsna_dread_D96_ssl.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "pareru806/kaggle-bundle-dread-d96",
+    "pareru806/kaggle-bundle-dread-d96b",
+    "pareru806/kaggle-bundle-slot-s4mae"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": []
+}

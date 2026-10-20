@@ -1,0 +1,70 @@
+5552976a0e884f413191d7e70570405909325af6e11d3962fb6094fb55aa6fd3  rsna/data/build_dread_corpus.py  <-  rsna/data/build_dread_corpus.py
+fa194cccfcb9c4028c621f9a3b867f9cd53b0386aea34305cacbec79bceee4b6  rsna/data/build_dread_corpus_d96.py  <-  rsna/data/build_dread_corpus_d96.py
+d804ef1c2ed122bd5f1593895328cb2e7274aeecc35aec94bac4547b28063b46  rsna/data/build_dread_labels.py  <-  rsna/data/build_dread_labels.py
+e90149ea3dba65f94c4f5502a3ab5193fed3ba29c04141fe8cb78c0e82dfc461  rsna/data/build_slot_cache.py  <-  rsna/data/build_slot_cache.py
+0693b8d7e87ebd5999456776d5f108d84929e13974c49b03caf5f2e96e4cb9b4  rsna/data/build_ssl_cache.py  <-  rsna/data/build_ssl_cache.py
+b546d127ddc7395d82142cd1b27e7fcea0606c0aa22dd31e3eae9d020b066d94  rsna/data/audit_slots.py  <-  rsna/data/audit_slots.py
+a53608f39319be2d7ec5467f64c8d9e5f1eac3902bd5a6bd2e45b4a727013926  rsna/data/geometry.py  <-  rsna/data/geometry.py
+e6b9e3708525f1379f01b8c8847354e5f8107274deb507741a12e14696806870  rsna/data/maxspan.py  <-  rsna/data/maxspan.py
+9182941e1a1345b41ac32428b91a04ccfa819be6e93f060a71f6920bd24b1b47  rsna/data/preprocess.py  <-  rsna/data/preprocess.py
+72fc02b47cfb5b8216be60dbf5d9b91d8e6425a2883e1134d740c6e9ae070dd3  rsna/data/sequence.py  <-  rsna/data/sequence.py
+f2d30486662d6b4a9963d04444a658e5c83454d504578e4b970af37fefb1f85a  rsna/labels/build_labels.py  <-  rsna/labels/build_labels.py
+8d07e4c86abe081be41d27ac13fec72a7ad253c83d6c8427b8fa2d01e5bbf021  rsna/labels/build_public.py  <-  rsna/labels/build_public.py
+69f2548692b2c63ddbbb3f01df95d4bac4d3fdf984d5dbc52b3ba0d16844eade  rsna/labels/consensus.py  <-  rsna/labels/consensus.py
+875ab70324e81fe42ae1cb0fc802badce2371360e7d8b03c1d450f620ffb4c6a  rsna/labels/extract.py  <-  rsna/labels/extract.py
+ba7f9010dfe1b6baf8d0d669309f13f2c26a9dc28b1072b664aa9b0dd6c57a66  rsna/labels/project.py  <-  rsna/labels/project.py
+e80be0ed36cba10ad6cae04f2e8cc86858f9f3645a237cd5677a0b6f3b246199  rsna/labels/prompt.py  <-  rsna/labels/prompt.py
+e411c0b9afe4e4d0ec2628054efef60344ca0e369e69f09a9d2ffc7557ad823c  rsna/labels/quality.py  <-  rsna/labels/quality.py
+0f5a36f8da2cfff48fb868c174c9d992e3ae8d4832c993ae797f61cded526951  rsna/labels/schema.py  <-  rsna/labels/schema.py
+a76b9579570a33cf33b1e0438d3a87e9c20ee7db2c4b39b5615bd93f8be8fa05  rsna/labels/splits.py  <-  rsna/labels/splits.py
+8df0fa8c5060edfbac60b302bca759aa78656cb9099f7c4f8a1b347369639ca7  rsna/train/augment.py  <-  rsna/train/augment.py
+bc5b6439d43b3c32304abd4ec5c4cba853cabc09fa2d1638afc03e076a0eff6f  rsna/train/curia.py  <-  rsna/train/curia.py
+6a8eccd2a859fba7eff6321a006588cfbd74bcbc6ebd12c8e3da5272b492f7ec  rsna/train/dataset.py  <-  rsna/train/dataset.py
+812414f54363de0e932280bc0304ca1a2ac39a1032f8b72b02570feb8f82e658  rsna/train/fingerprint.py  <-  rsna/train/fingerprint.py
+68977e0903e612ecaddc1b8167fbbe8c20ecd06b148b8f1ad37307a6c6cdb329  rsna/train/loop.py  <-  rsna/train/loop.py
+e14d07be64c5b01ac2a03b3fc970be1b8b0a022c542a358824a9bc2fbabb90e2  rsna/train/mae.py  <-  rsna/train/mae.py
+5a385c44c32beab5f92656e3a8900e510383c3e5966bbcb0a8b2c318a40c3a57  rsna/train/maxspan_dataset.py  <-  rsna/train/maxspan_dataset.py
+6d1f4ae96bfffb2d1a089faa630f5776fabd4b0d2519bcef559975ad7d7e50b2  rsna/train/model.py  <-  rsna/train/model.py
+9fbfd0129ef3919f6b30d5417d46363c0910ac039f35b11b876500bbd186f317  rsna/train/predict.py  <-  rsna/train/predict.py
+22daec7d4aae41a9ee465ada1dc294577f210ab36cff1d570e41d67f5cae26bd  rsna/train/pretrain_mae.py  <-  rsna/train/pretrain_mae.py
+77b7e2f4c2b0444dad228c59abfc0993edc0573d85e8ae3679198f6a3a2cbd76  rsna/train/slot_dataset.py  <-  rsna/train/slot_dataset.py
+859aae12ecea593b45ab0a5f6463fa573cd3083f340c161e920f10fbba29e81b  preprocessing/reference/dread_0924_inference.py  <-  competition_details/reference/dread_0924_inference.py
+98be0791abdabec19610b3e9a1817a8d0f58ce008d23532fdde678bb8dfbb30b  public_LB_model/coatnet_d96/knee_train_d96.py  <-  dread/train/knee_train_d96.py
+3a15564ed570b1875a8c5d1e91cf354b75223be80e6d821a63a399ab42630f7b  public_LB_model/coatnet_d96/run_d96.sh  <-  run_d96.sh
+4531f8be0c2131aeeb9355d53897164f58f2af37b0aba793765e55fd6f30b209  public_LB_model/ssl_member/run_ssl1.sh  <-  run_ssl1.sh
+48228f22708567c0e486a1a5cdd6c4e05a2ab434d6585fea2854b861ede25f10  public_LB_model/ssl_member/run_s5_folds.sh  <-  run_s5_folds.sh
+b0f4a8dbec9c76642f25df597ef25a6d8a65deb7493a11a5746e95d7562c969e  public_LB_model/ssl_member/run_ep50nb.sh  <-  run_ep50nb.sh
+2bff9ec1e5706b6e185862b1b8fe294c44aeba788384e55bec8977fce0706569  public_LB_model/kernel/rsna_dread_D96_ssl.py  <-  kaggle_kernel_dreadD96Ssl/rsna_dread_D96_ssl.py
+8445d50a310c22fcdc1a1d973c39db2d838f1301c783f9f644447f49076da63c  public_LB_model/kernel/kernel-metadata.json  <-  kaggle_kernel_dreadD96Ssl/kernel-metadata.json
+5b7f150bbd32fb20a5a14f03a1c2ad96d5d56d34d738bcfc5e01a4e59a3bb233  public_LB_model/bundles/dread_d96/dataset-metadata.json  <-  kaggle_bundle_dread_d96/dataset-metadata.json
+558290e188da0b6393b21b5638ad42ff761fdae94db9b883021f6c834caa98e8  public_LB_model/bundles/dread_d96b/dataset-metadata.json  <-  kaggle_bundle_dread_d96b/dataset-metadata.json
+7bea47797c2274d65321756a93c0ef24d8223ddc5719816d4616a49f8cb8e2ff  public_LB_model/bundles/dread_d96b/PROVENANCE.md  <-  kaggle_bundle_dread_d96b/PROVENANCE.md
+8278aa20846b17fef4141a5d82a42824819e79abcd1660559d0175cf4c9a2ad2  public_LB_model/bundles/slot_s4mae/dataset-metadata.json  <-  kaggle_bundle_slot_s4mae/dataset-metadata.json
+87b7e53d2beb212254b3bfd2e8751c6c33a75f14323eefb474b4fd01551c68a6  public_LB_model/bundles/slot_s4mae/PROVENANCE.md  <-  kaggle_bundle_slot_s4mae/PROVENANCE.md
+763491f5375e0ae8e42c7305a59a7e7ecaabac9cb19150021665a5440257364f  public_LB_model/bundles/slot_s4mae/manifest.json  <-  kaggle_bundle_slot_s4mae/manifest.json
+d43e9155a5416d3b0e3bc4c2c11692ae396b9821ebdfe2d4ba36ffc3fdf14039  eff_LB_model/kernel/rsna_dread_eff_d96_k43_2gpu.py  <-  kaggle_kernel_dreadEff3/rsna_dread_eff_d96_k43_2gpu.py
+1d6f1fd182415e7dbfb325c66e71326d73dcf99ce6a4d0413dfd746a9c35f1aa  eff_LB_model/kernel/kernel-metadata.json  <-  kaggle_kernel_dreadEff3/kernel-metadata.json
+c24b53c05fbfd3afee178f3b4ddf4649d76e0370e084d6da2c39953404c95083  eff_LB_model/builder/build_eff3.py  <-  <session scratchpad>/build_eff3.py
+fc0c7fe80bff00a72810aca2517d3f9956759d78b8dfe0f6e898956b9176b37e  eff_LB_model/builder/base_kernel/rsna_dread_D96.py  <-  kaggle_kernel_dreadD96/rsna_dread_D96.py
+8b2c4975ff51f12aa3ff3c4ce55d14b373d4ce916fa050acf4d6a610ea61b7e9  eff_LB_model/builder/base_kernel/kernel-metadata.json  <-  kaggle_kernel_dreadD96/kernel-metadata.json
+852f45af0b14d31fbf601a09aee2448190e7f0f8f69c5cbe54099de64e7ff70e  utils/verification/poolverify.py  <-  <session scratchpad>/poolverify.py
+447a29269320490541bb908ce6b76bc539c20d527b74ae7b0d53b685124c001e  utils/verification/v3test.sh  <-  <session scratchpad>/v3test.sh
+04d8127f58ae91f57ba6c364c8357a67ff253e7211151c156408c9b3b4643f38  utils/verification/parity_tp.py  <-  <session scratchpad>/parity_tp.py
+41c16fe9782a6924236fe7c1aec5f3a927765fb53b842db04cb42f15f17d12d1  utils/verification/forktest.py  <-  <session scratchpad>/forktest.py
+9e2ad892a7a716e23238f022f57643c0f2dadfe90efc860437a3f012ec9e605c  utils/verification/forktest2.py  <-  <session scratchpad>/forktest2.py
+03af7b25ecf4be474b45f7377e1725cd1ae4e08c73d98c692df9f0121595ffc4  utils/verification/prefetch_verify.py  <-  rsna/train/prefetch_verify.py
+5e11688c61b5d1bc46c0eb5816723116bfd08e7888d078eeaf68f58d3a1c980d  utils/measurement/kcurve.py  <-  <session scratchpad>/kcurve.py
+483d172bd6ecb82d60d550ebc2f20ca1064f0b110069730f8daafd52271be637  utils/measurement/subpoll_jst.sh  <-  <session scratchpad>/subpoll_jst.sh
+01fcd124030aa5f1ef4d5848fd103dd8b80056ec4211a6af65ab59f9458b6569  utils/measurement/kaggle_probe_v1/rsna_eff_probe.py  <-  kaggle_kernel_effProbe/rsna_eff_probe.py
+559fb2fbb0a75ff8251fc990442e87eb80ac3ed5b7c4a74e3655f6b939c3d762  utils/measurement/kaggle_probe_v1/kernel-metadata.json  <-  kaggle_kernel_effProbe/kernel-metadata.json
+25a23df2dc94a1fe75e4bdb06d4cacd42dbc71cd9ae4d8f51653d41d60df8a63  utils/measurement/kaggle_probe_v2/rsna_eff_probe2.py  <-  kaggle_kernel_effProbe2/rsna_eff_probe2.py
+668be0be06de97b0463b3e758b11d7e734730667e9d77b0b384808a027ebb83e  utils/measurement/kaggle_probe_v2/kernel-metadata.json  <-  kaggle_kernel_effProbe2/kernel-metadata.json
+85ffb0a3106b40fd28ffd3fbd32d8819870e68b7b0a30e5de1b5154b9f354b92  docs/preregistered/2026-08-27_rank_loss.md  <-  competition_details/preregistered/2026-08-27_rank_loss.md
+dba1459b5c3ea542f573c152239b16a7df21e8b13eaef0cae32aad76276a1168  docs/preregistered/2026-09-19_ssl_mae_trial.md  <-  competition_details/preregistered/2026-09-19_ssl_mae_trial.md
+40b1e7d44198a48ec4abbddf285554398d03df2973c288f3cac4ca015772f323  docs/preregistered/2026-09-22_dread_reconstruction.md  <-  competition_details/preregistered/2026-09-22_dread_reconstruction.md
+3874af1d4391ba1e69fcfef087fd4796a01fd1330160a5dcfede2317c7f49b0e  docs/preregistered/2026-09-25_R_rank.md  <-  competition_details/preregistered/2026-09-25_R_rank.md
+03d3f4b4a3a65bc64fda39bf172a3e6f69da720840432e54a24e2b04cce9c3db  docs/preregistered/2026-09-27_RGR_submissions.md  <-  competition_details/preregistered/2026-09-27_RGR_submissions.md
+16e7e5320f2549824598b7a3498050461311126304dc61993e48d01968d50752  docs/preregistered/2026-09-29_SSL_member.md  <-  competition_details/preregistered/2026-09-29_SSL_member.md
+6d16f8670be313617dc3343b84031514addd07b5749979588e29b59f9b1e024f  docs/preregistered/2026-10-08_DENSE96_native384.md  <-  competition_details/preregistered/2026-10-08_DENSE96_native384.md
+c754ad7e39793b087c6fef9021dd46570e84e0b7919b780fe7ed5c16ae098b62  docs/preregistered/2026-10-19_EFF_efficiency_track.md  <-  competition_details/preregistered/2026-10-19_EFF_efficiency_track.md
+ef7ec7cc39924f4bffa8d4c8e9a5c9bc4fc344a0fb1051d1c876073aa8041215  docs/PREFETCH_VERIFICATION_2026-09-23.md  <-  competition_details/PREFETCH_VERIFICATION_2026-09-23.md

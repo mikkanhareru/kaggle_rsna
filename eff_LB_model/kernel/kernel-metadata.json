@@ -1,0 +1,18 @@
+{
+  "id": "pareru806/rsna-knee-eff-d96-k43-2gpu",
+  "title": "RSNA Knee eff d96 k43 2gpu",
+  "code_file": "rsna_dread_eff_d96_k43_2gpu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "pareru806/kaggle-bundle-dread-d96"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": []
+}
