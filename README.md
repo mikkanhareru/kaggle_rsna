@@ -8,7 +8,7 @@ published-HP constants, RN50D-on-d96 "RND96", VLM/LLM synovitis labels, ...) is 
 | Track | Kaggle notebook | Public LB | Runtime |
 |---|---|---|---|
 | **Accuracy** | `rsna-knee-dread-d96-ssl` (Version 3) | **0.936** | several hours (not measured; the same-structure RND96 took ~3 h 48 min) |
-| **Efficiency** | `rsna-knee-eff-d96-k43-2gpu` (Version 2) | **0.933** | **~12 min** |
+| **Efficiency** | `rsna-knee-eff-d96-k43-2gpu` (Version 2) | **0.933** | **~12 min** |**Ranking: 144/6275**|
 
 Both must be ticked as the two final selections (the efficiency prize only scores a selected submission).
 
