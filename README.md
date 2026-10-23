@@ -5,10 +5,10 @@ actually depend on is kept; every experiment whose gate failed (LABCAL label cal
 published-HP constants, RN50D-on-d96 "RND96", VLM/LLM synovitis labels, ...) is left out.
 `MANIFEST.sha256` maps every file here to its source and proves the copies are byte-identical.
 
-| Track | Kaggle notebook | Public LB | Runtime |
+| Track | Kaggle notebook | Public LB | Runtime | Ranking |
 |---|---|---|---|---|
-| **Accuracy** | `rsna-knee-dread-d96-ssl` (Version 3) | **0.936** | ~3h| Ranking: - |
-| **Efficiency** | `rsna-knee-eff-d96-k43-2gpu` (Version 2) | **0.933** | **~12 min** |**Ranking: 144/6275**|
+| **Accuracy** | `rsna-knee-dread-d96-ssl` (Version 3) | **0.936** | 3h| - |
+| **Efficiency** | `rsna-knee-eff-d96-k43-2gpu` (Version 2) | **0.933** | **~12 min** |**144/6275**|
 
 
 ## Lineage
