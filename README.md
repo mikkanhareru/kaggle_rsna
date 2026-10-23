@@ -41,10 +41,6 @@ EFF (efficiency): the d96 s42 checkpoint alone, K_EVAL 43, DICOM preparation in 
 
 ## Caveats
 
-- **Paths are the original repo's.** Launchers `cd /import/fox/will/graduation_thesis/RSNA_kaggle`, the corpus
-  builder reads `competition_details/reference/...`, and `build_eff3.py` / the verification scripts use absolute
-  paths (some pointed at a session scratchpad). This directory is an archive of WHAT ran; to re-run from here,
-  repoint those paths first.
 - **No weights or data are stored here.** Weights live in the private Kaggle datasets listed in
-  `public_LB_model/bundles/`; competition data stays on the server (rules forbid redistribution).
+  `public_LB_model/bundles/`; competition data stays on the server since rules forbid redistribution.
 - The SSL member's MAE encoder was pretrained on competition images; see `public_LB_model/bundles/slot_s4mae/PROVENANCE.md`.
